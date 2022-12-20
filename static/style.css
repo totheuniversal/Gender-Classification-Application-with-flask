@@ -1,0 +1,45 @@
+body {
+    background-image: url('/static/background.jpg');
+    background-size: cover;
+}
+
+h2 {
+    color: rgb(255, 255, 255);
+  }
+
+
+
+.container {
+    display: flexbox;
+    justify-content: center;
+  }
+h2 {
+    text-shadow: 5px 5px 5px rgb(255, 255, 255);
+   
+    color: rgb(0, 0, 0);
+
+ 
+}
+
+h3 {
+
+    color: rgb(0, 0, 0);
+}
+
+h1 {
+    text-shadow: 5px 5px 5px rgb(255, 255, 255);;
+    background-size:50% 100%;
+    color: rgb(0, 0, 0);
+
+ 
+}
+
+.btn-large {
+    width: 180px;
+    height: 40px;
+}
+
+.form-large {
+    height: 200px;
+    text-align: center;
+  }
